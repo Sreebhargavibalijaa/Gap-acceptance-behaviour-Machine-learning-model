@@ -1,4 +1,4 @@
-# ML-model---gap-acceptance-behaviour
+# ML-model, gap-acceptance-behaviour
 This study proposes a deep neural network architecture for the Gap acceptance model of self-driving
 vehicles at unsignalized intersections. Gap acceptance behavior plays a key role in merging minor road
 vehicles into the major lane and it is a process that occurs in different traffic situations, such as crossing a
